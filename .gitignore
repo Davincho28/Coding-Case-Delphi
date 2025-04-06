@@ -1,0 +1,14 @@
+#------------backend-------------
+# Ignorar carpetas de node_modules
+node_modules/
+# Ignorar archivos de configuración de entorno
+.env
+#------------frontend-------------
+__history/
+__recovery/
+Win32/
+#------------tipos de archivos-------------
+*.identcache
+*.local
+*.res
+
