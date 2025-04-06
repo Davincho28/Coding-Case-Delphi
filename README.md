@@ -95,7 +95,7 @@ CREATE TABLE productos (
   stock INT
 );
 
-## 📫 Contacto
+### 📫 Contacto
 Para cualquier duda o sugerencia, puedes contactarme 👌.
 
 
